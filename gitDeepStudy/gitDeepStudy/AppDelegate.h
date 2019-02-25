@@ -13,5 +13,8 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @property (nonatomic,strong)NSString *oneString;
+
+@property (nonatomic,strong)NSString *twoString;
+
 @end
 
