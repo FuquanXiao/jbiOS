@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		181863C42223BEDF006EF707 /* People.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863C32223BEDF006EF707 /* People.m */; };
+		181863CC2223BF3E006EF707 /* StudentMMM.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863CB2223BF3E006EF707 /* StudentMMM.m */; };
+		181863CF2223BF51006EF707 /* HelloModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863CE2223BF51006EF707 /* HelloModel.m */; };
 		18EEB79021DF16ED00B0FFFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EEB78F21DF16ED00B0FFFF /* main.m */; };
 /* End PBXBuildFile section */
 
@@ -55,8 +56,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		181863C22223BEDF006EF707 /* People.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = People.h; sourceTree = "<group>"; };
-		181863C32223BEDF006EF707 /* People.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = People.m; sourceTree = "<group>"; };
+
+		181863CA2223BF3E006EF707 /* StudentMMM.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StudentMMM.h; sourceTree = "<group>"; };
+		181863CB2223BF3E006EF707 /* StudentMMM.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentMMM.m; sourceTree = "<group>"; };
+		181863CD2223BF51006EF707 /* HelloModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloModel.h; sourceTree = "<group>"; };
+		181863CE2223BF51006EF707 /* HelloModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloModel.m; sourceTree = "<group>"; };
 		18EEB78C21DF16ED00B0FFFF /* JBAPPHelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JBAPPHelper; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EEB78F21DF16ED00B0FFFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18EEBA0921DF182400B0FFFF /* objc.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = objc.xcodeproj; path = "study-objc-runtime-master/objc.xcodeproj"; sourceTree = "<group>"; };
@@ -94,8 +98,11 @@
 			isa = PBXGroup;
 			children = (
 				18EEB78F21DF16ED00B0FFFF /* main.m */,
-				181863C22223BEDF006EF707 /* People.h */,
-				181863C32223BEDF006EF707 /* People.m */,
+
+				181863CA2223BF3E006EF707 /* StudentMMM.h */,
+				181863CB2223BF3E006EF707 /* StudentMMM.m */,
+				181863CD2223BF51006EF707 /* HelloModel.h */,
+				181863CE2223BF51006EF707 /* HelloModel.m */,
 			);
 			path = JBAPPHelper;
 			sourceTree = "<group>";
@@ -198,8 +205,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				181863C42223BEDF006EF707 /* People.m in Sources */,
+
+				181863CF2223BF51006EF707 /* HelloModel.m in Sources */,
 				18EEB79021DF16ED00B0FFFF /* main.m in Sources */,
+				181863CC2223BF3E006EF707 /* StudentMMM.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
