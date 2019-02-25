@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		181863CC2223BF3E006EF707 /* StudentMMM.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863CB2223BF3E006EF707 /* StudentMMM.m */; };
 		181863CF2223BF51006EF707 /* HelloModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863CE2223BF51006EF707 /* HelloModel.m */; };
+		181863E62223C3AD006EF707 /* devbranch.m in Sources */ = {isa = PBXBuildFile; fileRef = 181863E52223C3AD006EF707 /* devbranch.m */; };
 		18EEB79021DF16ED00B0FFFF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EEB78F21DF16ED00B0FFFF /* main.m */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,8 @@
 		181863CB2223BF3E006EF707 /* StudentMMM.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudentMMM.m; sourceTree = "<group>"; };
 		181863CD2223BF51006EF707 /* HelloModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloModel.h; sourceTree = "<group>"; };
 		181863CE2223BF51006EF707 /* HelloModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloModel.m; sourceTree = "<group>"; };
+		181863E42223C3AD006EF707 /* devbranch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = devbranch.h; sourceTree = "<group>"; };
+		181863E52223C3AD006EF707 /* devbranch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = devbranch.m; sourceTree = "<group>"; };
 		18EEB78C21DF16ED00B0FFFF /* JBAPPHelper */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JBAPPHelper; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EEB78F21DF16ED00B0FFFF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18EEBA0921DF182400B0FFFF /* objc.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = objc.xcodeproj; path = "study-objc-runtime-master/objc.xcodeproj"; sourceTree = "<group>"; };
@@ -101,6 +104,8 @@
 				181863CB2223BF3E006EF707 /* StudentMMM.m */,
 				181863CD2223BF51006EF707 /* HelloModel.h */,
 				181863CE2223BF51006EF707 /* HelloModel.m */,
+				181863E42223C3AD006EF707 /* devbranch.h */,
+				181863E52223C3AD006EF707 /* devbranch.m */,
 			);
 			path = JBAPPHelper;
 			sourceTree = "<group>";
@@ -206,6 +211,7 @@
 				181863CF2223BF51006EF707 /* HelloModel.m in Sources */,
 				18EEB79021DF16ED00B0FFFF /* main.m in Sources */,
 				181863CC2223BF3E006EF707 /* StudentMMM.m in Sources */,
+				181863E62223C3AD006EF707 /* devbranch.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
